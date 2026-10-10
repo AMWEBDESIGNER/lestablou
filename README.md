@@ -15,6 +15,10 @@ Site vitrine statique imaginé pour **Restaurant L’Establou**, restaurant trad
 - Dépôt : https://github.com/AMWEBDESIGNER/lestablou
 - Déploiement : https://lestablou.pages.dev
 
+## Parcours livré
+
+L’accueil est complété par `experience.html` et `infos.html`, avec les services annoncés, le rythme midi/soir, le téléphone et l’itinéraire. Confirmer carte, horaires, logo, photos et services traiteur avant exploitation commerciale. Maquette indépendante.
+
 ## Personnalisation
 
 Modifier `index.html` pour intégrer le logo fourni, les photographies explicitement autorisées, la carte, les périodes d’ouverture et les coordonnées définitives. Les styles et interactions sont dans `style.css` et `app.js`.
