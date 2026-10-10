@@ -26,3 +26,7 @@ Modifier `index.html` pour intégrer le logo fourni, les photographies explicite
 ## Mention
 
 Cette publication est une **maquette indépendante**, sans affiliation ni mandat de l’établissement. Les informations pratiques doivent être confirmées par L’Establou avant toute mise en production commerciale.
+
+## Motion design et provenance du code
+
+Animations réalisées en CSS vanilla, avec respect de `prefers-reduced-motion`, et une révélation progressive inspirée du pattern public [Scroll animation: IntersectionObserver and CSS](https://codepen.io/oscar-jite/pen/qBzwOVq). La logique reste locale, légère et adaptée à l’identité de chaque établissement ; aucune dépendance payante ni contenu généré n’est requis.
